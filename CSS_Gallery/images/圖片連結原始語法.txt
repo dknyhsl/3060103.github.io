@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>照片分享區</title>
+<!-- 連結CSS -->
+<link rel="stylesheet" href="gallery.css">
+</head>
+
+<body>
+<h1>照片分享區</h1>
+<div class="container">
+<a href="images/202401.jpg" class="width">
+<img src="images/202401.jpg" alt="">
+</a>
+<a href="images/202402.jpg" class="height">
+<img src="images/202402.jpg" alt="">
+</a>
+<a href="images/202403.jpg" class="big">
+<img src="images/202403.jpg" alt="">
+</a>
+<a href="images/202404.jpg">
+<img src="images/202404.jpg" alt="">
+</a>
+<a href="images/202405.jpg" class="big">
+<img src="images/202405.jpg" alt="">
+</a>
+<a href="images/202411.jpg" class="width">
+<img src="images/202411.jpg" alt="">
+</a>
+<a href="images/202412.jpg" class="height">
+<img src="images/202412.jpg" alt="">
+</a>
+<a href="images/202413.jpg" class="height">
+<img src="images/202413.jpg" alt="">
+</a>
+<a href="images/202414.jpg" class="">
+<img src="images/202414.jpg" alt="">
+</a>
+<a href="images/202415.jpg" class="width">
+<img src="images/202415.jpg" alt="">
+</a>
+<a href="images/1202416.jpg" class="big">
+<img src="images/1202416.jpg" alt="">
+</a>
+<a href="images/202417.jpg" class="">
+<img src="images/202417.jpg" alt="">
+</a>
+<a href="images/202418.jpg" class="big">
+<img src="images/202418.jpg" alt="">
+</a>
+<a href="images/202419.jpg" class="width">
+<img src="images/202419.jpg" alt="">
+</a>
+<a href="images/202420.jpg" class="height">
+<img src="images/202420.jpg" alt="">
+</a>
+<a href="images/16.jpg" class="width">
+<img src="images/16.jpg" alt="">
+</a>
+
+
+
+
+</div>
+
+</body>
+
+</html>

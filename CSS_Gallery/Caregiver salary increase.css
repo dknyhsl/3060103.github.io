@@ -88,5 +88,5 @@ p{
 }
 body { background-color:#FFFFFF; padding:0;  margin: 0; }
 .textstyle1 { text-align:center; }
-#form_3d66e75c { vertical-align: top; position:relative; display: inline-block; width:auto; min-height:479px; background:none;  }
+#form_3d66e75c { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:479px; background:none;  }
 #form_3d66e75c_padding { margin: 10px; display: block;  }
